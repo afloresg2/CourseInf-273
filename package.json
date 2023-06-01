@@ -1,0 +1,12 @@
+{
+  "name": "courseinf-273",
+  "version": "1.0.0",
+  "description": "Profile and videos of INF-273 LAB-273. Created only with HTML CSS JavaScript and fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
